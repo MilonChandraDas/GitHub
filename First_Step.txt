@@ -1,0 +1,5 @@
+Configuraing Git:
+-------------------
+1. git config --global user.name "My Name"
+2. git config --global user.email "example@gmail.com"
+3. git config --list
