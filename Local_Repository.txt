@@ -1,0 +1,12 @@
+Init command:
+--------------
+init - used to create a new git repository
+
+1. git init
+2. git status
+3. git add .
+4. git commit -m "first commit"
+5. git branch -M main (to rename branch)
+6. git remote add origin <-link->
+7. git push -u origin main
+8. then next upload -> git push 
