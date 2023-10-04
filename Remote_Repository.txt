@@ -1,0 +1,30 @@
+Clone & Status:
+-----------------
+1. clone: cloning a repository on our local machine
+    git clone <-link->
+
+2. status: displays the status of the code
+    git status 
+
+
+Add % Commit:
+----------------
+1. add: adds new or changed files in your working directory to the Git Staging area.
+
+    single file     : git add <-file name->
+    or many file    : git add .
+
+
+2. commit: it is the record of changed
+    git commit -m "Some Message"
+
+    Disgram -> Boy & Girsl
+    add     -> Engagement
+    commit  -> Marrige
+
+
+Push Command:
+---------------
+push - upload local repository content to remote repository
+
+    git push origin main
